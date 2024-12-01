@@ -1,5 +1,5 @@
 ## About Me 👋
-
+[Book a slot at Topmate](https://topmate.io/sanjeevtripurari)
 
 ```
 🔭 Consultant | Mentor | BigData | DevOps |  System Design 
@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[[![Topmate](https://topmate-readme-badge.onrender.com/sanjeevtripurari)](https://topmate.io/sanjeevtripurari)]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeevtripurari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sanjeevtripurari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4516671) 
 
 
