@@ -5,7 +5,7 @@
 🔭 Consultant | Mentor | BigData | DevOps |  System Design 
 🌱 Ex-Retort | Ex-Softoria | Ex-Cybertech | Ex-Rediff | Ex-AOL | Ex-Yahoo | Ex-InMobi
 
-👯 Co-Founder Softoria
+👯 Co-Founder BintyByte Technologies, Softoria
 ⚡ Worked During Startups Phase: Retort, Softoria, Cybertech, InMobi
 
 🔹 Data Engineering, BigData Pipeline, System Design, DevOps
