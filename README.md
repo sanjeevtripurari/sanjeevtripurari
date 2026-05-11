@@ -9,6 +9,9 @@
 ⚡ Worked During Startups Phase: Retort, Softoria, Cybertech, InMobi
 
 🔹 Data Engineering, BigData Pipeline, System Design, DevOps
+🔹 Advanced Executive Program In Applied Generative AI
+🔹 2025 Online Bootcamp on Generative AI and LLM Application Development
+🔹 Data Vault Mastery: Modernizing Data Warehousing
 🔹 Certified Cloudera Hadoop Administrator
 🔹 Certified Agile Scrum Master  
 
